@@ -1,3 +1,5 @@
+#AN ULTRA BAREBONES REACT CODEBASE WITH ONE COMPONENT
+
 ## Folder Structure
 
 After creation, your project should look like this:
